@@ -123,4 +123,4 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use this code in your projects, but please don't copy-paste it. Try to understand what it does and write it yourself. This will help you learn and understand the code better. If you do use it, a mention would be appreciated, but is not required. Thanks! :heart: [↩](#dockerized-jupyter)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use this code in your projects, but please don't copy-paste it. Try to understand what it does and write it yourself. This will help you learn and understand the code better. You can read my blog post titled ["Dockerize Your Data Science Workflow: A Step-by-Step Guide to Setting Up Jupyter Lab on Your Private Linux Machine"](https://www.mirsazzathossain.me/articles/dockerizing-jupyter-notebook) for more details. If you do use it, a mention would be appreciated, but is not required. Thanks! :heart: [↩](#dockerized-jupyter)
